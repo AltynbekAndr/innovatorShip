@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Ni_Puha_Ne_Pera:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Mol_Bulak.war">
+      <element id="artifact" artifact-name="Ni_Puha_Ne_Pera:war exploded" />
+    </root>
+  </artifact>
+</component>
